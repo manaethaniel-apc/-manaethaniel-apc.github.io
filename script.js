@@ -1,2 +1,2 @@
-document.getElementById("demo").onclick = Date()
+document.getElementById("demo").onclick = window.print(Date)
 
