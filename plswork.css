@@ -1,6 +1,7 @@
 body {
-    background-image: url("hyrulewarriors-ac-guardians-3840x2160-1.jpg");
-    background-color: lightblue;
+	background-image: url("hyrulewarriors-ac-guardians-3840x2160-1.jpg");
+	background-size: 720px;
+	background-color: lightblue;
 }
 h2 {
 	color: blue;
