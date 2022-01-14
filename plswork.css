@@ -3,14 +3,14 @@
     background-color: lightblue;
   }
 .DP {
-  h1 color: #C9C9C9;
-  h2 color: #D20000;
+  h1 {color: #C9C9C9;}
+  h2 {color: #D20000;}
 }
 .hobby {
-  h3 color: #CE8F11;
-  p color: #1111CE;
+  h3 {color: #CE8F11;}
+  p {color: #1111CE;}
 }
 .why {
-  h3 color: #CE8F11;
-  p color: #D20000;
+  h3 {color: #CE8F11;}
+  p {color: #D20000;}
 }
