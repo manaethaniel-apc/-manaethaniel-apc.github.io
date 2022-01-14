@@ -1,16 +1,16 @@
-  body {
+body {
     background-image: url("https://images.wallpapersden.com/image/download/the-legend-of-zelda-breath-of-the-wild-art_a2ZubmaUmZqaraWkpJRobWllrWdma2U.jpg");
     background-color: lightblue;
-  }
-.DP {
-  h1 {color: #C9C9C9;}
-  h2 {color: #D20000;}
 }
-.hobby {
-  h3 {color: #CE8F11;}
-  p {color: #1111CE;}
+h2 {
+	color: blue;
 }
-.why {
-  h3 {color: #CE8F11;}
-  p {color: #D20000;}
+h3 {
+	color: brown;
+}
+ul {
+	color: blue;
+}
+p {
+	color: red;
 }
