@@ -1,2 +1,2 @@
-document.getElementById("demo").innerHTML = Date()
+document.getElementById("demo").onclick = Date()
 
