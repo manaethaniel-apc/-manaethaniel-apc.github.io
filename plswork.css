@@ -1,17 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 body {
 	background-image: url("hyrulewarriors-ac-guardians-3840x2160-1.jpg");
 	background-size: auto;
 	background-color: lightblue;
 	font-family: 'Lora', serif;
 }
-h2 {
+h1 {
+	color: white;
+}
+h2, ul {
 	color: blue;
 }
 h3 {
 	color: brown;
-}
-ul {
-	color: blue;
 }
 p {
 	color: red;
