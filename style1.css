@@ -1,9 +1,11 @@
-body {
-  background-color: lightblue;
-}
-h1 {
-  color: black;
-{
-h2, h3 {
-  color: blue;
-}
+<style>
+  body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: black;
+  {
+  h2, h3 {
+    color: blue;
+  }
+</style>
